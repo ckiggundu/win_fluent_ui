@@ -1,7 +1,7 @@
 
 # Flutter fluent ui windows desktop application (Template)
 
-This is a template flutter dektop application with fluent ui package.
+This is a template flutter desktop application with fluent ui package.
 
 
 ## Deployment Setup
