@@ -26,7 +26,7 @@ Run the application
 
 ## Screenshots
 
-<img src="https://i.postimg.cc/6p1j5V1b/Screenshot-20221029-052200.png" width="45%"></img> <img src="https://i.postimg.cc/XYv1b1xy/Screenshot-20221029-052133.png" width="45%"></img> 
+[![Screenshot-20221029-052200.png](https://i.postimg.cc/6p1j5V1b/Screenshot-20221029-052200.png)](https://postimg.cc/VJnBKtwX) [![Screenshot-20221029-052133.png](https://i.postimg.cc/XYv1b1xy/Screenshot-20221029-052133.png)](https://postimg.cc/HVf902qp)
 
 ## License
 
